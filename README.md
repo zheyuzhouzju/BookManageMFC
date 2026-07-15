@@ -25,9 +25,7 @@ ModernButton  — 自绘圆角按钮（BS_OWNERDRAW）
 
 ## 编译运行
 
-**直接运行：** 将 `BookManageMFC.exe_` 重命名为 `BookManageMFC.exe`，双击运行。默认账号 `admin`，密码 `book2026`。
-
-**VS 编译：**
+Visual Studio 2022 打开 `BookManageMFC.sln`：
 1. Visual Studio 2022 打开 `BookManageMFC.sln`
 2. 如报错 MSB8020，项目属性 → 平台工具集 → 改为 `v143`
 3. 确保已安装 "C++ MFC for v14xx build tools"
